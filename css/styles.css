@@ -1,0 +1,19 @@
+/* ========== ELEMENT SELECTORS ========== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* ========== CLASS SELECTORS ========== */
+.main-header {
+    height: 100vh;
+    text-align: center;
+}
+
+.profile-pic {
+    width: 80%;
+    margin: 10px 10%;
+    border-radius: 10% 40%;
+}
